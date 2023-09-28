@@ -1,0 +1,6 @@
+# Readme Raw Data
+This talks about the tidy data
+
+There are 344 individuals penguins that had their bill length and depth measured
+
+There are less variables in this dataset

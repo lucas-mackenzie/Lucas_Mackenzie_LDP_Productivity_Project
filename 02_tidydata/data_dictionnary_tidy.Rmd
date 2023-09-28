@@ -1,0 +1,5 @@
+# Data dictionary
+
+bill_length_mm = individual penguin bill length measured in millimeters 
+
+bill_depth_mm = individual penguin bill depth measured in millimeters

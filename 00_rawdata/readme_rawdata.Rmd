@@ -1,0 +1,4 @@
+# Readme Raw Data
+This talks about the raw data
+
+There are 344 individuals penguins that had their bill length and depth measured
